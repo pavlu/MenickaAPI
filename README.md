@@ -38,7 +38,7 @@ $menickaAPI = new MenickaAPI($login, $hash, 'PROD');
 ```
 ## Struktura proměnných
 
-Proměnná | typ | Popis
+Proměnná | Typ | Popis
 ------------ | ------------- | ---------
 **$id** | integer | Interní ID záznamu, pod kterým má zákazník vedený záznam ve své DB
 **$typ** | integer | 1 = polévka, 2 = jídlo, 3 = poznámka
