@@ -1,4 +1,4 @@
-![Ewebovky logo](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/300307_143851005784634_13358189_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHq0jKWvQke55cHedbMH5C5LhEgMjChGFvnpLMFVkVTOcO3WF_8HRj5OutkzR_uNr0jW6oBzSvkjDB2cwQK0fJEwzcnSR4OyAsEOL6Ls2QaNA&oh=84ad3b53eaab5d953842cc0603793b1a&oe=5B512ADB)
+![Ewebovky logo](https://www.ewebovky.cz/signature.png)
 
 # MenickaAPI
 
